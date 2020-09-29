@@ -5,10 +5,7 @@
     </head>
     <body>
       <p><b><font size = "5">React & React Native</font></b></p>
-      <p><font size = "4">Homework sesi 2: </font></p>
-        <li>Melakukan Filter data yang memiliki "Present : True"</li>
-        <li>Mencetak Hasil Menggunakan Console.log</li>
-      <p><b><font size = "2">NB : Klik Console untuk melihat hasil</font></b></p>
+      <p><font size = "4">Homework session 2</font></p>
       
 <script>
   const videoData = [
