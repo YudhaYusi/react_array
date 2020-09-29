@@ -4,8 +4,8 @@
         <title>React & React Native</title>
     </head>
     <body>
-      <p><b><font size = "5">React & React Native</font></b></p>
-      <p><font size = "4">Homework session 2</font></p>
+      <p><b>React & React Native</b></p>
+      <p>Homework session 2</p>
       
 <script>
   const videoData = [
